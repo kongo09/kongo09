@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm the maintainer of a Home Assistant integration for Philips AirPurifier devices that enables local control via encrypted CoAP protocol. The integration supports multiple Philips airpurifier models (AC1214, AC2729, AC2889, AC2939, AC2958, AC3033, AC3059, AC3829, AC3858, AC4236) and provides comprehensive device control including fan speeds, preset modes, child lock, display settings, filter status monitoring, and air quality measurements. You can find it in my [philips-airpurifier-coap-old](https://github.com/kongo09/philips-airpurifier-coap-old) repository, installable through HACS as a custom component.
+
 <!--
 **kongo09/kongo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
